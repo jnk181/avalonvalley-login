@@ -1,5 +1,5 @@
 # Avalon Valley
-![alt text](https://github.com/jnk181/lightdm-webgreeter-avalonvalley/blob/main/screenshot.webp?raw=true)
+![alt text](https://raw.githubusercontent.com/jnk181/avalonvalley-login/refs/heads/main/screenshot.webp)
 This login theme was inspired by MondySpartan's Avalon Valley concept: https://x.com/tehmondspartan/status/1808115427425636665/photo/1
 # Features and notes
 * config.js - Configuration file
