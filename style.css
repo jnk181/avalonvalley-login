@@ -272,3 +272,12 @@ span,img {
     height: 40px;
     margin: 8px;
 }
+
+#session_input {
+    opacity:0;
+    transition:all 0.15s;
+}
+
+#session_input:hover {
+    opacity:1;
+}

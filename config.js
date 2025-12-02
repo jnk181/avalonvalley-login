@@ -1,10 +1,10 @@
 
 
 var config_params = {
-    os: "archlinux",
-    theme: "samsung-touchwiz4-unique",
-    wallpaper_path: "img/backgrounds/blue_flowers.jpg",
-    filter_args: "hue-rotate(330deg)" //add some effects to the login background ( style="filter: {filter_args}" )
+    os: "linuxmint",
+    theme: "avalonvalley",
+    wallpaper_path: "img/backgrounds/leaves.jpg",
+    filter_args: "hue-rotate(0deg)" //add some effects to the login background ( style="filter: {filter_args}" )
 }
 
 // wallpaper recommendations
