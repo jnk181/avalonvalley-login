@@ -1,0 +1,15 @@
+img[src="img/clock/face-bk.png"] {
+    content:url("../assets/clocks/samsung-touchwiz4-modern/face-bk.png");
+}
+
+img[src="img/clock/arrow-hour.png"] {
+    content:url("../assets/clocks/samsung-touchwiz4-modern/arrow-hour.png");
+}
+
+img[src="img/clock/arrow-min.png"] {
+    content:url("../assets/clocks/samsung-touchwiz4-modern/arrow-min.png");
+}
+
+img[src="img/clock/arrow-sec.png"] {
+    content:url("../assets/clocks/samsung-touchwiz4-modern/arrow-sec.png");
+}
