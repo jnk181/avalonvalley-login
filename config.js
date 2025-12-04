@@ -1,10 +1,10 @@
 
 
 var config_params = {
-    os: "nixos",
+    os: "linuxmint",
     theme: "avalonvalley",
-    wallpaper_path: "img/backgrounds/snowflake.jpg",
-    filter_args: "hue-rotate(0deg)" //add some effects to the login background ( style="filter: {filter_args}" )
+    wallpaper_path: "img/backgrounds/humanity.png",
+    filter_args: "hue-rotate(63deg)" //add some effects to the login background ( style="filter: {filter_args}" )
 }
 
 // wallpaper recommendations

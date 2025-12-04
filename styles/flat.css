@@ -107,39 +107,39 @@ body {
 }
 
 img[src="img/default_avatar.png"] {
-    content:url("./assets/flat/default_pfp.jpg");
+    content:url("../assets/flat/default_pfp.jpg");
 }
 
 img[src="img/archlogo.png"] {
-    content:url("./assets/brandings/archlogo_flat.png");
+    content:url("../assets/brandings/archlogo_flat.png");
 }
 
 img[src="img/clock/face-bk.png"] {
-    content:url("./assets/clocks/flat/face-bk.png");
+    content:url("../assets/clocks/flat/face-bk.png");
 }
 
 img[src="img/clock/arrow-hour.png"] {
-    content:url("./assets/clocks/flat/arrow-hour.png");
+    content:url("../assets/clocks/flat/arrow-hour.png");
 }
 
 img[src="img/clock/arrow-min.png"] {
-    content:url("./assets/clocks/flat/arrow-min.png");
+    content:url("../assets/clocks/flat/arrow-min.png");
 }
 
 img[src="img/clock/arrow-sec.png"] {
-    content:url("./assets/clocks/flat/arrow-sec.png");
+    content:url("../assets/clocks/flat/arrow-sec.png");
 }
 
 img[src="img/b-shutdown.png"] {
-    content:url("./assets/pbuttons/b-shutdown.png");
+    content:url("../assets/pbuttons/b-shutdown.png");
 }
 
 img[src="img/b-reboot.png"] {
-    content:url("./assets/pbuttons/b-reboot.png");
+    content:url("../assets/pbuttons/b-reboot.png");
 }
 
 img[src="img/b-sleep.png"] {
-    content:url("./assets/pbuttons/b-sleep.png");
+    content:url("../assets/pbuttons/b-sleep.png");
 }
 
 .login-input span {
@@ -197,9 +197,9 @@ img[src="img/b-sleep.png"] {
 }
 
 img[src="./img/icons/error.png"] {
-    content:url("./assets/icons/flat/message_error.png");
+    content:url("../assets/icons/flat/message_error.png");
 }
 
 img[src="./img/icons/capslock.png"] {
-    content:url("./assets/icons/flat/capslock.png");
+    content:url("../assets/icons/flat/capslock.png");
 }
